@@ -1,0 +1,43 @@
+body{
+ background-color:background-color:#556B2F;  
+margin:12px;  
+}
+
+nav{
+ 
+}
+nav{
+  max-width:960px;
+  margin:0 auto;
+  padding:10px 0;
+  margin-right:0%;
+  margin-right: 2px; 
+  
+}
+ul{
+  text-align:right;
+  list-style: none;
+  text-align: right;
+
+}
+li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+}
+li>a:hover{
+  box-shadow:0 0 10px rgba(0,0,0,0.1),inset 0 0 1px rgba(255,255,255,0.6);
+  color:dimgray
+}
+nav:hover{
+  box-shadow:0,0,1px rgb(255,255,255,0.6);
+   
+}
+h1{
+color:white;
+font-display:bold;
+text-align: center;
+
+
+}
